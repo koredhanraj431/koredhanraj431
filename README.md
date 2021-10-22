@@ -1,13 +1,13 @@
-<img alt="" src="./img/hand_wave.gif" width='40' align="left"/><h2> Hey there! I'm Dhanraj.</h2>
+<h2></h2>
+<img alt="hey" src="./img/hand_wave.gif" width='40' align="left"/><h2>Hey there! I'm Dhanraj</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+### 👨🏻‍💻 &nbsp;About Me
 - 🎓 &nbsp; Currently pursuing my final year of B.Tech in Computer Engineering at VIT,Pune.
 - 🤔 &nbsp; Exploring new technologies.
 
 <img alt="Coding" src="./img/coding.gif" align="right"/>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C-333333.svg?style=flat&logo=c&logoColor=white)
@@ -33,19 +33,21 @@
 <br/>
 
 <a href="https://github.com/koredhanraj431">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koredhanraj431&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koredhanraj431&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koredhanraj431&theme=light&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koredhanraj431&theme=light&layout=compact&langs_count=8" />
 </a>
-
 <br/>
 
-<h3> 💻 &nbsp;Coding Profiles </h3>
+### 💻 &nbsp;Coding Profiles
+<p align="center">
 <a href="https://www.hackerrank.com/dhanraj_kore18"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 <a href="https://auth.geeksforgeeks.org/user/koredhanraj431/practice/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
 <a href="https://leetcode.com/dhanraj_1999/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+</p>
+
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://koredhanraj431.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
