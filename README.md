@@ -32,7 +32,7 @@
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-333333?style=flat&logo=jupyter&logoColor=white)
 <br/>
 
-<a href="https://github.com/koredhanraj431">
+<a href="https://github.com/koredhanraj431" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koredhanraj431&theme=light&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koredhanraj431&theme=light&layout=compact&langs_count=8" />
 </a>
@@ -40,18 +40,18 @@
 
 ### 💻 &nbsp;Coding Profiles
 <p align="center">
-<a href="https://www.hackerrank.com/dhanraj_kore18"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-<a href="https://auth.geeksforgeeks.org/user/koredhanraj431/practice/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
-<a href="https://leetcode.com/dhanraj_1999/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+<a href="https://www.hackerrank.com/dhanraj_kore18" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+<a href="https://auth.geeksforgeeks.org/user/koredhanraj431/practice/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
+<a href="https://leetcode.com/dhanraj_1999/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 </p>
 
 <br/>
-
+ 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://koredhanraj431.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
-<a href="https://www.linkedin.com/in/koredhanraj431"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/dk._.1106/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="mailto:koredhanraj431@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://koredhanraj431.github.io/Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+<a href="https://www.linkedin.com/in/koredhanraj431" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/dk._.1106/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="mailto:koredhanraj431@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
