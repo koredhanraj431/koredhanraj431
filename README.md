@@ -1,5 +1,5 @@
 <h2></h2>
-<img alt="hey" src="./img/hand_wave.gif" width='40' align="left"/><h2>Hey there! I'm Dhanraj</h2>
+<img alt="hey" src="./img/hand_wave.gif" width='40' align="left"/><h2>Hey there! I'm DK</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🎓 &nbsp; Currently pursuing my final year of B.Tech in Computer Engineering at VIT,Pune.
